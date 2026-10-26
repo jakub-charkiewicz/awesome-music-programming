@@ -66,6 +66,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 ## Web-Based Music Tools
 
 - [Hydra](https://hydra.ojack.xyz) - Web-based live coding visuals synced with audio
+- [Online Tone Generator](https://theaudiostuff.com/tools/signal-generator/) - Web Audio signal generator for sine, square, triangle and sawtooth tones, five noise colours and frequency sweeps, with WAV export
 - [Orca](https://hundredrabbits.itch.io/orca) - Live coding tool using grid-based interface
 - [Strudel](https://strudel.cc) - Live coding patterns using JavaScript and WebAudio
 - [Tone.js](https://tonejs.github.io) - Web Audio framework for interactive music in the browser
